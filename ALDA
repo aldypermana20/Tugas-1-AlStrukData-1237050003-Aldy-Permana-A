@@ -1,0 +1,25 @@
+TUGAS
+1.	Urutkan deret angka berikut dengan bubble sort (Ascending)
+13   14   10   4   18   20   25   17
+
+2.	Tuliskan hasil tiap Langkah (Step)
+
+3.	Tugas dikumpulkan di EKNOWS atau di email ichantaufik@gmail.com
+
+Jawaban
+1.	4   10   13   14   17   18   20   25
+
+2.	Bubble Sort: tahap demi tahap
+
+Awal		13    14   10    4    18   20   25   17
+Step-1		4      13   14   10   18   20   25   17
+Step-2		4      10   13   14   18   20   25   17
+Step-3		4      10   13   14   18   20   25   17
+Step-4		4      10   13   14   18   20   25   17
+Step-5		4      10   13   14   17   18   20   25
+Step-6 		4      10   13   14   17   18   20   25
+Step-7		4      10   13   14   17   18   20   25
+Hasil Akhir 	4      10   13   14   17   18   20   25
+
+
+
